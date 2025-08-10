@@ -1,0 +1,6 @@
+langchain_huggingface
+langchain_community
+faiss-cpu
+yt-dlp
+opencv-python
+gradio
